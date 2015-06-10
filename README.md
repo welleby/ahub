@@ -3,6 +3,7 @@
 - Multiroom-audio-sync-system
 - A free multiroom-speaker-solution
 - A system to be used in combination with any active speaker as an alternative to commercial products like Sonos or Bose SoundTouch
+- Pretty much a free alternative to https://www.thisisbeep.com/ 
 - Based on Java for portability
 - 100% compatible with RaspberryPi (In fact, developed with the RaspberryPi in mind)
 
